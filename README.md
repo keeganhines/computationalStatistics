@@ -2,6 +2,8 @@
 
 Notes and pedagodical materials for some favorite statistical methods.
 
+Course videos from [District Data Labs workshop](https://districtdatalabs.squarespace.com/computational-statistics-with-python).
+
 #### Frequentist Methods
 - Monte Carlo methods
 - Bootstrap
